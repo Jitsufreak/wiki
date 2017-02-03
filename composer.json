@@ -1,0 +1,8 @@
+{
+    "name": "Jitsufreak/wiki",
+    "version": "master",
+    "source": {
+        "url": "git@github.com:Jitsufreak/wiki.git",
+        "type": "git"
+    }
+}
